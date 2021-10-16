@@ -2,7 +2,7 @@
 
 * ## **Introduction**
 
-In this we are controlling the simulated(turtlebot3 in Gazebo) or real world robot with the help of hand gestures.
+   In this we are controlling the simulated(turtlebot3 in Gazebo) or real world robot with the help of hand gestures.
 
 - ## **Tools and Hardware Used**
 1. VsCode
@@ -34,6 +34,5 @@ https://emanual.robotis.com/docs/en/platform/turtlebot3/simulation/#gazebo-simul
 
     ![](https://i.imgur.com/r8zGr8v.gif)
 <br>Commanding Gestures</br>
-
-   ![]([Robot control.gif](https://github.com/Deepshikhar/Hand_gesture_controlled_robot/blob/6327b121188b23f7dd90705f1029e3e51eb9f23b/Robot%20control.gif))
+   ![](https://github.com/Deepshikhar/Hand_gesture_controlled_robot/blob/main/Robot%20control.gif)
 <br>Final Result</br>
